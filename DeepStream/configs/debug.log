@@ -1,0 +1,13 @@
+
+==============================================================================
+[2026-10-17T10:38:32+00:00] run.debug.sh FAILED (attempt 1/4)
+------------------------------------------------------------------------------
+pipeline error:
+ERROR: from element /GstPipeline:pipeline0/GstV4l2Src:v4l2src0: Cannot identify device '/dev/video0'.
+---
+../sys/v4l2/v4l2_calls.c(608): gst_v4l2_open (): /GstPipeline:pipeline0/GstV4l2Src:v4l2src0:
+system error: No such file or directory
+ERROR: pipeline doesn't want to preroll.
+Failed to set pipeline to PAUSED.
+Setting pipeline to NULL ...
+Freeing pipeline ...
