@@ -1,4 +1,0 @@
-{
-  "/home/sowjanya/.pipegen/sowjanya82006/b5f1e5c0-d0f0-4dfd-887b-ee47933ccfa0/src1/yolov8_pose_parallel/models/yolov8n.onnx": "/home/sowjanya/.pipegen/sowjanya82006/b5f1e5c0-d0f0-4dfd-887b-ee47933ccfa0/model_stage/yolov8n.fp16.plan",
-  "/home/sowjanya/.pipegen/sowjanya82006/b5f1e5c0-d0f0-4dfd-887b-ee47933ccfa0/src1/yolov8_pose_parallel/models/yolo11n-pose.onnx": "/home/sowjanya/.pipegen/sowjanya82006/b5f1e5c0-d0f0-4dfd-887b-ee47933ccfa0/model_stage/6-yolo11n-pose/yolo11n-pose.fp16.plan"
-}
